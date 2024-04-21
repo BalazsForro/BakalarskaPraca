@@ -1,1 +1,1 @@
-# BakalarskaPraca
+# Balázs Forró - Bakalárska Práca
